@@ -1,1 +1,1 @@
-[PR](https://github.com/yahialabeeb/linear-regression/pull/1)
+[PR](https://github.com/yahialabeeb/linear-regression/pull/2)
